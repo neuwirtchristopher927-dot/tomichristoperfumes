@@ -87,19 +87,21 @@ nav {
     object-fit: cover;
   }
 
-  .carousel-control-next button{
-    color: aqua;
+  .custom-arrow {
+    font-size: 2rem;
+    color: rgb(255, 0, 0);
+    background: rgb(255, 8, 8);
+    padding: 10px;
+    border-radius: 50%;
   }
-   
   
 
 
 footer {
     background-color: #333;
     color: #fff;
-    text-align: center;
+    text-align:center;
     padding: 20px;
-    position: relative;
     bottom: 0;
-    width: 100%;
+    width: 300%;
 }
